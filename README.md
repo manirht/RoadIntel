@@ -6,7 +6,7 @@ _A deep learning-powered system for real-time traffic sign classification, engin
 
 ## 🔗 Quick Access
 
-[![GitHub Repository](https://img.shields.io/badge/Source%20Code-GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/RoadIntel.git)
+[![GitHub Repository](https://img.shields.io/badge/Source%20Code-GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manirht/RoadIntel.git)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ---
@@ -19,7 +19,7 @@ RoadIntel delivers robust and efficient traffic sign recognition capabilities:
 * 🎯 **High Accuracy:** Engineered and fine-tuned to significantly reduce misclassification rates by 25%, ensuring reliable detection.
 * ⚙️ **End-to-End ML Pipeline:** Designed a complete machine learning pipeline covering data preprocessing, model training, evaluation, and deployment.
 * 🚀 **Performance Optimized:** Optimized model inference performance for production use, identifying and eliminating bottlenecks to process large datasets efficiently.
-* 📊 **Large Scale Data Handling:** Processed over 500,000 real-world traffic images for comprehensive model training and validation.
+* 📊 **Large Scale Data Handling:** Processed over 500+ real-world traffic images for comprehensive model training and validation.
 
 ---
 
@@ -58,7 +58,7 @@ Ensure you have the following installed on your system:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/RoadIntel.git](https://github.com/YOUR_USERNAME/RoadIntel.git)
+git clone [https://github.com/manirht/RoadIntel.git](https://github.com/manirht/RoadIntel.git)
 
 # 2. Navigate into the project directory
 cd RoadIntel
